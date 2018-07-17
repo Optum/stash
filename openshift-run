@@ -1,0 +1,3 @@
+#!/bin/sh -ex
+
+oc start-build stash --from-dir=. --follow=true

@@ -1,0 +1,2 @@
+#!/bin/sh -ex
+GOOS=linux go build .

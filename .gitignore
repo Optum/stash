@@ -1,0 +1,11 @@
+#OSX
+.DS_STORE
+
+#IntelliJ
+.idea/
+
+#Stash Files
+resources/persistent
+
+#Binary
+stash
