@@ -1,5 +1,6 @@
 #Stash
 
+This is for the demo.
 
 Stash is a minimalistic web based file store.  Anyone is welcome to contribute to or use this software.
 
