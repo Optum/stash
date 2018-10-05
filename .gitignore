@@ -5,7 +5,8 @@
 .idea/
 
 #Stash Files
-resources/persistent/
+resources/persistent/*
+!resources/persistent/.gitkeep
 
 #Binary
 stash
