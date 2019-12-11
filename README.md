@@ -1,4 +1,11 @@
-#Stash
+![FileImage](./docs/Files.png)
+
+Thanks for your interest in Optum’s Stash project!  Unfortunately, we have moved on and this project is no longer actively maintained or monitored by our Open Source Program Office.  This copy is provided for reference only.  Please fork the code if you are interested in further development.  The project and all artifacts including code and documentation remain subject to use and reference under the terms and conditions of the open source license indicated.  All copyrights reserved.
+
+
+![ChaoSlingrLogo](./docs/ChaoSlingrLogo.jpg)
+
+# Stash
 
 This is for the demo.
 
